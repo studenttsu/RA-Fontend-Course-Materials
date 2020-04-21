@@ -12,7 +12,7 @@
 
 4) Работа с Git и GitHub
 - Зарегистрироваться на github https://github.com/
-- Сделать fork репозитория https://github.com/studenttsu/RA-Fontend-Course
+- Сделать fork репозитория https://github.com/studenttsu/RA-Frontend-Course
 - Склонировать его локально на компьютер
 - Создать ветку с именем lesson1-ваша фамилия, имя (к примеру lesson1-Ivanov-Ivan)
 - Внести любые изменения в ветку, запушить на удалённый репозиторий
